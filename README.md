@@ -56,3 +56,13 @@ this approach lets you encapsulate different parts of your user interface into
 independent, reusable pieces.
 ```
 #### Defining Components in React
+
+
+
+-------------------------------
+Lembrete:
+dir Backend
+node src
+
+dir frontend
+npm start
